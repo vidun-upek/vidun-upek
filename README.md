@@ -8,7 +8,7 @@
   - 🔭 Bio under construction.
 </div> -->
 # 💫 About Me:
-🔭 I’m currently working on CrackCode, a gamified narrative-driven platform for learning programming, and a freelance Web Application for a local food business focusing on order management and delivery.<br><br>👯 I’m looking to collaborate on Full Stack projects or DevOps initiatives.<br><br>🤝 I’m currently studying Advanced Kubernetes orchestration and scaling Machine Learning workflows.<br><br>🌱 I’m currently learning Socket Programming, DevOps practices, and ML workflows.<br><br>💬 Ask me about React, Node, Java OOP, Docker, or how to build gamified educational tools.<br><br>⚡ Checkout my portfolio Website for Personal stats and project Details
+🔭 Hi ... I am vidun - cs undergad.I’m currently learning laravel, Flutter and mobile development.<br><br>👯 I’m looking to collaborate on Full Stack/ ML projects or DevOps initiatives.<br><br>🤝 I have experience on building applications with MERN stack, Docker, Kubernetes orchestration and scaling Machine Learning workflows.<br><br>Currently working as a junior software engineer(Intern) <br><br>💬 Ask me about React, Node, Java OOP, Docker, or how to build gamified educational tools.<br><br>⚡ Checkout my portfolio Website for Personal stats.
 
 
 ## 🌐 Socials:
